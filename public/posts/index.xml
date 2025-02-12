@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Castle Nerda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 09:14:03 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 11:44:55 -0500</lastBuildDate>
     <atom:link href="https://castlenerda.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deployment Test</title>
+      <link>https://castlenerda.com/posts/2025/deployment-test/</link>
+      <pubDate>Wed, 12 Feb 2025 11:44:55 -0500</pubDate>
+      <guid>https://castlenerda.com/posts/2025/deployment-test/</guid>
+      <description>&lt;h2 id=&#34;deployment-test&#34;&gt;Deployment Test&lt;/h2&gt;&#xA;&lt;p&gt;The point of this point is just a simple deployment test.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to Castle Nerda</title>
       <link>https://castlenerda.com/posts/2025/welcome/</link>
