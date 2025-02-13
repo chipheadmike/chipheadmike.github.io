@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/castlenerda/castle-nerda/themes/mainroad" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/ananke" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/mainroad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/paper" vcs="Git" />
   </component>
 </project>
