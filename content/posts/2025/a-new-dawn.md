@@ -13,3 +13,5 @@ Life happens.
 This site has been created with Hugo and currently I have the site updates happening manually. I'd like to change that and build a pipeline using GitHub. I've done it before.
 
 You know when that happens because I'll certainly be posting about it.
+
+_Update_ - This post doesn't display properly.
