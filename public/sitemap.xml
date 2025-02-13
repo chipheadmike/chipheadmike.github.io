@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://castlenerda.com/</loc>
-    <lastmod>2025-02-12T11:44:55-05:00</lastmod>
+    <loc>https://castlenerda.com/posts/2025/a-new-dawn/</loc>
+    <lastmod>2025-02-13T07:03:23-05:00</lastmod>
   </url><url>
-    <loc>https://castlenerda.com/posts/2025/deployment-test/</loc>
-    <lastmod>2025-02-12T11:44:55-05:00</lastmod>
+    <loc>https://castlenerda.com/</loc>
+    <lastmod>2025-02-13T07:03:23-05:00</lastmod>
   </url><url>
     <loc>https://castlenerda.com/posts/</loc>
+    <lastmod>2025-02-13T07:03:23-05:00</lastmod>
+  </url><url>
+    <loc>https://castlenerda.com/posts/2025/deployment-test/</loc>
     <lastmod>2025-02-12T11:44:55-05:00</lastmod>
   </url><url>
     <loc>https://castlenerda.com/posts/2025/welcome/</loc>
