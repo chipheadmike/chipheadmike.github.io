@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Castle Nerda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 11:44:55 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 07:03:23 -0500</lastBuildDate>
     <atom:link href="https://castlenerda.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Dawn</title>
+      <link>https://castlenerda.com/posts/2025/a-new-dawn/</link>
+      <pubDate>Thu, 13 Feb 2025 07:03:23 -0500</pubDate>
+      <guid>https://castlenerda.com/posts/2025/a-new-dawn/</guid>
+      <description>&lt;h2 id=&#34;new-website-and-new-goals&#34;&gt;New Website and New Goals&lt;/h2&gt;&#xA;&lt;p&gt;I think when I finally get around to learning most of the markdown language, I&amp;rsquo;ll be dangerous.&lt;/p&gt;&#xA;&lt;p&gt;Castle Nerda or the idea of it has always been to explore programming, deploying, and testing new systems and new languages. The idea has been lost for a while.&#xA;Life happens.&lt;/p&gt;&#xA;&lt;p&gt;This site has been created with Hugo and currently I have the site updates happening manually. I&amp;rsquo;d like to change that and build a pipeline using GitHub. I&amp;rsquo;ve done it before.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Deployment Test</title>
       <link>https://castlenerda.com/posts/2025/deployment-test/</link>
