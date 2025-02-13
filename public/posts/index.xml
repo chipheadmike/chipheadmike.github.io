@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Castle Nerda</title>
-    <link>https://castlenerda.com/posts/</link>
+    <link>https://chipheadmike.github.io/public/posts/</link>
     <description>Recent content in Posts on Castle Nerda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Feb 2025 09:52:04 -0500</lastBuildDate>
-    <atom:link href="https://castlenerda.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chipheadmike.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another Test</title>
-      <link>https://castlenerda.com/posts/2025/another-test/</link>
+      <link>https://chipheadmike.github.io/public/posts/2025/another-test/</link>
       <pubDate>Thu, 13 Feb 2025 09:52:04 -0500</pubDate>
-      <guid>https://castlenerda.com/posts/2025/another-test/</guid>
+      <guid>https://chipheadmike.github.io/public/posts/2025/another-test/</guid>
       <description>&lt;h2 id=&#34;why-not-workie-workie&#34;&gt;Why Not Workie Workie&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is weird&lt;/li&gt;&#xA;&lt;li&gt;This is strange&lt;/li&gt;&#xA;&lt;li&gt;This is wild&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-aiignore&#34; data-lang=&#34;aiignore&#34;&gt;select * from mydatabase.data&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
       <title>A New Dawn</title>
-      <link>https://castlenerda.com/posts/2025/a-new-dawn/</link>
+      <link>https://chipheadmike.github.io/public/posts/2025/a-new-dawn/</link>
       <pubDate>Thu, 13 Feb 2025 07:03:23 -0500</pubDate>
-      <guid>https://castlenerda.com/posts/2025/a-new-dawn/</guid>
+      <guid>https://chipheadmike.github.io/public/posts/2025/a-new-dawn/</guid>
       <description>&lt;h2 id=&#34;new-website-and-new-goals&#34;&gt;New Website and New Goals&lt;/h2&gt;&#xA;&lt;p&gt;I think when I finally get around to learning most of the markdown language, I&amp;rsquo;ll be dangerous.&lt;/p&gt;&#xA;&lt;p&gt;Castle Nerda or the idea of it has always been to explore programming, deploying, and testing new systems and new languages. The idea has been lost for a while.&#xA;Life happens.&lt;/p&gt;&#xA;&lt;p&gt;This site has been created with Hugo and currently I have the site updates happening manually. I&amp;rsquo;d like to change that and build a pipeline using GitHub. I&amp;rsquo;ve done it before.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deployment Test</title>
-      <link>https://castlenerda.com/posts/2025/deployment-test/</link>
+      <link>https://chipheadmike.github.io/public/posts/2025/deployment-test/</link>
       <pubDate>Wed, 12 Feb 2025 11:44:55 -0500</pubDate>
-      <guid>https://castlenerda.com/posts/2025/deployment-test/</guid>
+      <guid>https://chipheadmike.github.io/public/posts/2025/deployment-test/</guid>
       <description>&lt;h2 id=&#34;deployment-test&#34;&gt;Deployment Test&lt;/h2&gt;&#xA;&lt;p&gt;The point of this point is just a simple deployment test.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Castle Nerda</title>
-      <link>https://castlenerda.com/posts/2025/welcome/</link>
+      <link>https://chipheadmike.github.io/public/posts/2025/welcome/</link>
       <pubDate>Wed, 12 Feb 2025 09:14:03 -0500</pubDate>
-      <guid>https://castlenerda.com/posts/2025/welcome/</guid>
+      <guid>https://chipheadmike.github.io/public/posts/2025/welcome/</guid>
       <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;&#xA;&lt;p&gt;This site is about all things programming. This is a development site.&lt;/p&gt;</description>
     </item>
   </channel>
