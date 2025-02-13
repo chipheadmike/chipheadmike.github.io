@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Castle Nerda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2025 07:03:23 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 09:52:04 -0500</lastBuildDate>
     <atom:link href="https://castlenerda.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Test</title>
+      <link>https://castlenerda.com/posts/2025/another-test/</link>
+      <pubDate>Thu, 13 Feb 2025 09:52:04 -0500</pubDate>
+      <guid>https://castlenerda.com/posts/2025/another-test/</guid>
+      <description>&lt;h2 id=&#34;why-not-workie-workie&#34;&gt;Why Not Workie Workie&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is weird&lt;/li&gt;&#xA;&lt;li&gt;This is strange&lt;/li&gt;&#xA;&lt;li&gt;This is wild&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-aiignore&#34; data-lang=&#34;aiignore&#34;&gt;select * from mydatabase.data&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
     <item>
       <title>A New Dawn</title>
       <link>https://castlenerda.com/posts/2025/a-new-dawn/</link>
